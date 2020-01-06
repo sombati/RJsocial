@@ -5,7 +5,7 @@ class Login extends Component {
     render() {
         return (
             <div>
-                <h1>เข้าสู่ระบบของนักศึกษานายสมบัติ</h1>
+                <h3>เข้าสู่ระบบของนักศึกษานายสมบัติ</h3>
             </div>
         );
     }
